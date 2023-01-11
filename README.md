@@ -1,2 +1,1 @@
-# prepcouse-hernry
-este es un repositorio de prueba de modulo dos de henry
+este es un proyecto de prueba de como crear un repositorio y clonarlo a mi escritorio desde github
